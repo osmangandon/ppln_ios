@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "PPLN Abu Dhabi",
+  "short_name": "PPLN Abu Dhabi",
+  "version": "ppln.ppln.ppln",
+  "description": "PPLN Abu Dhabi",
+  "author": "PPLN Abu Dhabi",
+  "icons": [],
+  "start_url": "index.html"
+}
